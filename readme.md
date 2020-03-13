@@ -1,28 +1,24 @@
-# This is a large heading
+# Hugo Fernàndez
 
-## This is a smaller heading
+### Geografia
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Yo vivo en la ciudad de Còrdoba, en la provincia del mismo nombre, en la Repùblica Argentina.
 
-- This is
-- an unordered
-- list
+###Lectura
+ 
+Mis libros favoritos son:
 
-1. This is
-2. an ordered
-3. list
+- *El sol de Breda* de Arturo Pèrez Reverte.
+- *Limpeza de Sangre* de Arturo Pèrez Reverte.
+- *Los Lanzallamas* de Roberto Art.
 
-Here is `some code` in the middle of a sentence.
+### Comida
 
-```
-This is
-a block
-of code
-```
+mi comida favorita es: 
+ 1. Asado
+ 2. Milanesas  
+ 3. Ravioles
 
-Here is how you make [a link](https://www.wikipedia.org/).
+###Contacto
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+La forma mas facil de contactarme es [en Twitter](https://twitter.com/hugorfernandez).
